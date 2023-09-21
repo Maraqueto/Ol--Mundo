@@ -1,0 +1,15 @@
+algoritmo "1 1000"
+
+var 
+titulo:carctere
+autor:carctere
+paginas:inteiro
+categoria:carctere  
+emprestado:logico
+pessoa:carctere
+
+inicio
+
+
+
+fimalgoritmo
