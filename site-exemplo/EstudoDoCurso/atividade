@@ -1,15 +1,19 @@
 algoritmo "1 1000"
 
 var 
-titulo:carctere
-autor:carctere
-paginas:inteiro
-categoria:carctere  
-emprestado:logico
-pessoa:carctere
+
+titulo : carctere
+autor : carctere
+paginas : inteiro
+categoria : carctere  
+emprestado : logico
+pessoa : carctere
 
 inicio
-
-
-
+titulo : "lógica de programção"
+autor : "Rafael Meyer"
+paginas : "100"
+categoria : "computação"
+emprestado : verdadeiro
+pessoa :"Laura"
 fimalgoritmo

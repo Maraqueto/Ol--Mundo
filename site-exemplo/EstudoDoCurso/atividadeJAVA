@@ -1,0 +1,16 @@
+package br.senai.livro
+
+public class "declararvariavel001" {
+
+ public static void main(String[] args) {
+
+    String   titulo;
+    String   autor;
+    int      paginas;
+    String   categoria;
+    boolean  emprestado;
+    String   pessoa;
+
+   }
+
+}
