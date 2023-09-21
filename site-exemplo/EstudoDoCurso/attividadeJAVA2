@@ -1,0 +1,13 @@
+package br.senai.livro;
+
+public class DeclalarConstate001 {
+    
+    public static void main(String[] args) {
+       
+        String nome = "Coca-Cola";
+        double valor = 2.50;
+        final String categoria = "Bebida";
+        
+    }    
+
+}
