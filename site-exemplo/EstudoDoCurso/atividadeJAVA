@@ -11,12 +11,12 @@ public class "declararvariavel001" {
     boolean  emprestado;
     String   pessoa;
 
-    titulo : "lógica Da Programação";
-    autor : "Rafael Meyer";
-    paginas : "100";
-    categoria : 'Computação';
-    emprestado : True
-    pessoa : "Laura";
+    titulo = "lógica Da Programação";
+    autor = "Rafael Meyer";
+    paginas = "100";
+    categoria = 'Computação';
+    emprestado = True
+    pessoa = "Laura";
 
    }
 
