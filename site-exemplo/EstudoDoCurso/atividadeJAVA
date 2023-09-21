@@ -15,7 +15,7 @@ public class "declararvariavel001" {
     autor = "Rafael Meyer";
     paginas = "100";
     categoria = 'Computação';
-    emprestado = True
+    emprestado = true;
     pessoa = "Laura";
 
    }
