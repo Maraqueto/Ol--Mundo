@@ -10,10 +10,10 @@ emprestado : logico
 pessoa : carctere
 
 inicio
-titulo : "lógica de programção"
-autor : "Rafael Meyer"
-paginas : "100"
-categoria : "computação"
-emprestado : verdadeiro
-pessoa :"Laura"
+titulo <- "lógica de programção"
+autor <- "Rafael Meyer"
+paginas <- "100"
+categoria <- "computação"
+emprestado <- verdadeiro
+pessoa <- "Laura"
 fimalgoritmo
