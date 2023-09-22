@@ -1,6 +1,6 @@
-package br.senai.livro
+package br.
 
-public class "declararvariavel001" {
+public class atividadeJAVA {
 
  public static void main(String[] args) {
 
