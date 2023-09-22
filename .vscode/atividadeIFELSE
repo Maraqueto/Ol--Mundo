@@ -1,0 +1,17 @@
+int a, b;
+
+printf ("insira o valor  de A/n")
+scanf ("%b", %a);
+
+printf ("insira o valor  de B/n")
+scanf ("%b", %b);
+
+if (a < b) {
+      printf("%b eh menor que %b", a , b)    
+}
+
+if (a > b) {
+      printf("%b eh maior que %b", a , b )    
+}
+
+return 0;
