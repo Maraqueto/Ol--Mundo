@@ -1,0 +1,37 @@
+Algoritmo “if-else”
+Var
+n1,n2: inteiro
+
+Inicio
+escreval(“100”)
+leia(n1)
+escreval(“50”)
+leia(n2)
+
+se n1 > n2 entao
+	escreval(“O primeiro número é maior: “, n1)
+senao
+	escreval(“O segundo número é maior: “, n2)
+fimse
+Fimalgoritmo
+
+			</pre>
+		</div>
+	</div>
+	<div class="wrapper">
+		<h3>Linguagem de Programação (Java)</h3>
+		<div style="display: flex; color: #ffffff">
+			<pre class="prettyprint lang-js ">
+				<xmp>
+public class IfElse {
+	public static void mais(String[] args) {
+		int n1 = Integer.parseInt(JOptionPane.showInputDialog(“100”));
+		int n2 = Integer.parseInt(JOptionPane.showInputDialog(“50”));
+
+		if (n1 > n2) {
+			JOptionPane.showMessageDialog(null, “O primeiro número é maior: “ + n1);
+		} else {
+			JOptionPane.showMessageDialog(null, “O segundo número é menor: “ + n2);
+		}
+	}
+}
