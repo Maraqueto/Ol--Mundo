@@ -11,6 +11,9 @@ if (a < b) {
 }
 
 if (a > b) {
+      printf("%b eh maior que %b", a , b ) 
+
+      if (a > b) {
       printf("%b eh maior que %b", a , b )    
 }
 
