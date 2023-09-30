@@ -1,0 +1,101 @@
+3 linguagens não tipadas : PHP, Python e JavaScript.
+3 linguagens tipadas: Java, C# e C++.
+
+Java:
+
+byte: Tamanho: 1 byte
+
+Intervalo: -128 a 127
+short: Tamanho: 2 bytes
+
+Intervalo: -32,768 a 32,767
+int: Tamanho: 4 bytes
+
+Intervalo: -2,147,483,648 a 2,147,483,647
+long: Tamanho: 8 bytes
+
+Intervalo: -9,223,372,036,854,775,808 a 9,223,372,036,854,775,807
+float: Tamanho: 4 bytes
+
+Intervalo aproximado: ±3.4 x 10^-38 a ±3.4 x 10^38
+Precisão limitada
+double: Tamanho: 8 bytes
+
+Intervalo aproximado: ±1.7 x 10^-308 a ±1.7 x 10^308
+Maior precisão do que float
+char: Tamanho: 2 bytes
+
+Representa caracteres Unicode
+boolean: Tamanho não especificado, frequentemente 1 byte
+
+Pode ser true (verdadeiro) ou false (falso)
+C#:
+
+sbyte: Tamanho: 1 byte
+
+Intervalo: -128 a 127
+byte: Tamanho: 1 byte
+
+Intervalo: 0 a 255
+short: Tamanho: 2 bytes
+
+Intervalo: -32,768 a 32,767
+ushort: Tamanho: 2 bytes
+
+Intervalo: 0 a 65,535
+int: Tamanho: 4 bytes
+
+Intervalo: -2,147,483,648 a 2,147,483,647
+uint: Tamanho: 4 bytes
+
+Intervalo: 0 a 4,294,967,295
+long: Tamanho: 8 bytes
+
+Intervalo: -9,223,372,036,854,775,808 a 9,223,372,036,854,775,807
+ulong: Tamanho: 8 bytes
+
+Intervalo: 0 a 18,446,744,073,709,551,615
+float: Tamanho: 4 bytes
+
+Precisão de aproximadamente 7 dígitos decimais
+double: Tamanho: 8 bytes
+
+Precisão de aproximadamente 15-16 dígitos decimais
+char: Tamanho: 2 bytes
+
+Representa caracteres Unicode
+bool: Tamanho: Geralmente 1 byte
+
+Pode ser true (verdadeiro) ou false (falso)
+C++:
+
+char: Tamanho: 1 byte
+
+Intervalo: -128 a 127 (para char com sinal) ou 0 a 255 (para unsigned char sem sinal)
+short: Tamanho: 2 bytes
+
+Intervalo: -32,768 a 32,767 (para short com sinal) ou 0 a 65,535 (para unsigned short sem sinal)
+int: Tamanho: 4 bytes
+
+Intervalo: -2,147,483,648 a 2,147,483,647 (para int com sinal) ou 0 a 4,294,967,295 (para unsigned int sem sinal)
+long: Tamanho: Pode variar, geralmente 4 bytes ou 8 bytes
+
+Intervalo: Geralmente segue os intervalos de int, mas com uma gama maior de valores positivos e negativos.
+long long: Tamanho: Pode variar, geralmente 8 bytes
+
+Intervalo: -9,223,372,036,854,775,808 a 9,223,372,036,854,775,807 (para long long com sinal) ou 0 a 18,446,744,073,709,551,615 (para unsigned long long sem sinal)
+float: Tamanho: 4 bytes
+
+Precisão limitada, geralmente cerca de 7 dígitos decimais
+double: Tamanho: 8 bytes
+
+Maior precisão do que float, geralmente cerca de 15-16 dígitos decimais
+bool: Tamanho: Normalmente 1 byte
+
+Pode ter os valores true (verdadeiro) ou false (falso)
+char16_t: Tamanho: 2 bytes
+
+Usado para representar caracteres Unicode de 16 bits
+char32_t: Tamanho: 4 bytes
+
+Usado para representar caracteres Unicode de 32 bits
